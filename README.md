@@ -1,1 +1,3 @@
-# BookTarun'sShow
+# TicketBooking 
+It runs on console... this program takes input from user
+this program uses Object oriented programming, Displaying seating order, bocking ticket using row and column, saving user details for every ticket booked, displaying statistics for the day in revenue generated, and finally showing details of people who brought ticket.. are the funcionalities of this project...
